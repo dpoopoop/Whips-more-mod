@@ -1,2 +1,2 @@
-# Whips-more-mod
-some open source mod adds whips
+# DpoopoopMods
+here are my mods
